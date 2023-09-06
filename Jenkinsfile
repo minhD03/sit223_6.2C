@@ -51,3 +51,5 @@ pipeline {
                 echo "deploy the code to $PRODUCTION_ENVIRONMENT"
             }
         }
+    }
+}
